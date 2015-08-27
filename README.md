@@ -2,6 +2,7 @@ SailfishOS Useful Commands
 ==========================
 
 Commands that are not so easy to remember
+
 Feel free to add stuff
 
 ### Reversing applied patches
