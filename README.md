@@ -1,4 +1,6 @@
-# SailfishOS Useful Commands
+SailfishOS Useful Commands
+==========================
+
 ## Commands that are not so easy to remember
 Feel free to add stuff
 
