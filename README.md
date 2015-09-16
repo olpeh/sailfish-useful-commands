@@ -16,6 +16,11 @@ devel-su
 patch -R -p 1 -d / -i /var/lib/patchmanager/ausmt/patches/{patchname}/unified_diff.patch
 - ignore "already unapplied" ones
 
+### Applying patches from CLI
+devel-su  
+
+patch -p 1 -d / -i /usr/share/patchmanager/patches/{patchname}/unified_diff.patch  
+ 
 ### Restart android VM
 devel-su
 
