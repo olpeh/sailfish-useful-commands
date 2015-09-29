@@ -26,6 +26,9 @@ devel-su
 
 systemctl restart aliendalvik.service
 
+### Take a screenshot from command line
+/usr/bin/grabscreen [/path/to/snapshot.png]
+
 ### Send SMS from command line
 For example sending and SMS to +358500000000:
 
