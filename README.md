@@ -53,3 +53,6 @@ journalctl
 
 ### Media player from CLI
 gst-launch-0.10 playbin2 uri=file:///path/to/file/music.mp3
+
+### SSH to SailfishOS emulator
+ssh -p 2223 -i ~/SailfishOS/vmshare/ssh/private_keys/SailfishOS_Emulator/nemo nemo@localhost
