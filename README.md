@@ -7,6 +7,9 @@ Feel free to add stuff
 
 ## PLEASE BE AWARE WHEN RUNNING THESE COMMANDS! THEY MIGHT BRICK YOUR PHONE! ONLY USE THEM IF YOU KNOW WHAT YOU ARE DOING!
 
+### Re-install lipstick
+pkcon install zypper && zypper in -f lipstick-jolla-home-qt5
+
 ### Open
 xdg-open
 
